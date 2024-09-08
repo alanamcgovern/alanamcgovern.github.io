@@ -21,7 +21,7 @@ repository               : "alanamcgovern.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_5354.pmg"
+  avatar           : "images/IMG_5354.jpg"
   name             : "Alana McGovern"
   pronouns         : "she/her"  
   bio              : "4th year PhD student in the Department of Statistics at University of Washington"
