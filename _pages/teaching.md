@@ -29,3 +29,12 @@ author_profile: true
 | MTH 161: Calculus I                                            | Fall 2018         |
 
 ## Resources
+
+* [Guide](files/MSTheory Topics.pdf) for Masters level statistical theory qualifying exam 
+* Guides for Advanced Theory of Statistical Inference (580s) Parts [II](files/STAT_582_Final_Guide.pdf) and [III](files/STAT_583_Final_Guide.pdf)
+
+
+
+
+
+
