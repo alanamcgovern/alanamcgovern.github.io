@@ -10,7 +10,7 @@ author_profile: true
 Lim-Fat MJ, et al. (2024). [“A comparative analysis of the IDH-mutant glioma in pediatric, young adult and older adult patients.”](https://doi.org/10.1093/neuonc/noae142) Neuro-Oncology, online ahead of print.
 
 **McGovern A**, Chapple AG, Ma C. (2022). [“2S-Sub-TITE: An adaptive two-stage time-to
-toxicity model for subgroup-specific dose finding.”](files/Pharm_Stat_Paper.pdf) Pharmaceutical Statistics, 21. 6.
+toxicity model for subgroup-specific dose finding.”](/files/Pharm_Stat_Paper.pdf) Pharmaceutical Statistics, 21. 6.
 
 Carpenter K, Scavotto M, **McGovern A**, Ma C, Kenney LB, Mack JW, Greenzang KA. (2021).
 [“Early Parental Knowledge of Late Effect Risks in Children with Cancer.”](https://doi.org/10.1002/pbc.29473) Pediatric
@@ -31,7 +31,7 @@ Estimation of Rare Event Prevalence.”](https://arxiv.org/abs/2408.16129)
 
 ## Non-peer reviewed work
 
-United Nations Inter-agency Group for Child Mortality Estimation (2023). "Subnational Under-five and Neonatal Mortality Estimates, 2000–2021" United Nations Children’s Fund, New York. [[PDF]](files/UN_Estimates_Report_2023.pdf) [[Code]](https://github.com/alanamcgovern/UN-Subnational-Estimates)
+United Nations Inter-agency Group for Child Mortality Estimation (2023). "Subnational Under-five and Neonatal Mortality Estimates, 2000–2021" United Nations Children’s Fund, New York. [[PDF]](/files/UN_Estimates_Report_2023.pdf) [[Code]](https://github.com/alanamcgovern/UN-Subnational-Estimates)
 
 
 
