@@ -31,7 +31,7 @@ author_profile: true
 ## Resources
 
 * [Guide](/files/MSTheory_Topics.pdf) for Masters level statistical theory qualifying exam 
-* Guides for Advanced Theory of Statistical Inference (580s) Parts [II](/files/STAT_582_Final_Guide.pdf) and [III](/files/STAT_583_Final_Guide.pdf)
+* Guides for Advanced Theory of Statistical Inference (580s) Parts [II](/files/STAT_582_Final_Guide.pdf) and [III](/files/STAT_583_Exam_Guide.pdf)
 
 
 
