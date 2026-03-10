@@ -6,6 +6,5 @@ local/
 Gemfile.lock
 # Ingore files created by npm
 node_modules
-files/
 package-lock.json
 .Rproj.user
