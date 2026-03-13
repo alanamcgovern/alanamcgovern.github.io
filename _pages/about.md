@@ -15,6 +15,6 @@ with the United Nations Inter-agency Group for Mortality Estimation (UN-IGME).
 
 I completed my BS in Applied Mathematics at University of Rochester and MS in Biostatistics at Harvard School of Public Health. 
 While completing my Masters degree, I also worked in the biostatistics department of the Dana-Farber/Boston Children's Cancer and Blood Disorders Center, where I 
-performed statistical analysess and generated reports for a wide range of applied projects, as well as collaborated on an active clinical trial using a novel Phase I design.
+performed statistical analyses and generated reports for a wide range of applied projects, as well as collaborated on an active Phase I clinical trial using a novel dose-finding design.
 
 I grew up in northern New Jersey and in my spare time I enjoy reading, going to concerts, taking dance classes, and hanging out with my rabbit, Theo.
