@@ -24,7 +24,7 @@ Lim-Fat MJ, et al. (2020). “A multi institutional comparative analysis of the 
 and survival characteristics of pediatric, young adult and older adult patients with IDH
 mutant glioma.” Neuro-Oncology, 22.2. [[paper]](https://doi.org/10.1093/neuonc/noaa215.329)
 
-## Non-peer reviewed work
+## Non peer-reviewed work
 
 United Nations Inter-agency Group for Child Mortality Estimation (2023). "Subnational Under-five and Neonatal Mortality Estimates, 2000–2021" United Nations Children’s Fund, New York. [[PDF]](/files/UN_Estimates_Report_2023.pdf) [[Code]](https://github.com/alanamcgovern/UN-Subnational-Estimates)
 
