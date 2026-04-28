@@ -25,7 +25,7 @@ and survival characteristics of pediatric, young adult and older adult patients 
 mutant glioma.” Neuro-Oncology, 22.2. [[paper]](https://doi.org/10.1093/neuonc/noaa215.329)
 
 ## Submitted
- ** McGovern A**, Fuglstad GA, Wakefield J. (2026). "Sampling distributions for complex design variance estimators in a Fay-Herriot model."[[arXiv]](https://arxiv.org/abs/2604.23029) [[Code]](https://github.com/alanamcgovern/FHVarianceSmoothing)
+ **McGovern A**, Fuglstad GA, Wakefield J. (2026). "Sampling distributions for complex design variance estimators in a Fay-Herriot model."[[arXiv]](https://arxiv.org/abs/2604.23029) [[Code]](https://github.com/alanamcgovern/FHVarianceSmoothing)
 
 ## Non peer-reviewed work
 
