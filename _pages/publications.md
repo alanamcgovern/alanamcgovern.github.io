@@ -6,25 +6,25 @@ author_profile: true
 ---
 
 **McGovern A**, Wilson K, Wakefield J. (2025). “Direct-Assisted Bayesian Unit-level Modeling for Small Area
-Estimation of Rare Event Prevalence.” Journal of Survey Statistics and Methodology, to appear. [[arXiv]](https://arxiv.org/abs/2408.16129) [[Code]](https://github.com/alanamcgovern/New-Benchmarking) 
+Estimation of Rare Event Prevalence.” Journal of Survey Statistics and Methodology, 14. 1. [[doi]](https://doi.org/10.1093/jssam/smaf037) [[arXiv]](https://arxiv.org/abs/2408.16129) [[Code]](https://github.com/alanamcgovern/New-Benchmarking) 
 
-Lim-Fat MJ, et al. (2024). “A comparative analysis of the IDH-mutant glioma in pediatric, young adult and older adult patients.” Neuro-Oncology, 26. 12. [[paper]](https://doi.org/10.1093/neuonc/noae142)
+Lim-Fat MJ, et al. (2024). “A comparative analysis of the IDH-mutant glioma in pediatric, young adult and older adult patients.” Neuro-Oncology, 26. 12. [[doi]](https://doi.org/10.1093/neuonc/noae142)
 
 **McGovern A**, Chapple AG, Ma C. (2022). “2S-Sub-TITE: An adaptive two-stage time-to
-toxicity model for subgroup-specific dose finding.” Pharmaceutical Statistics, 21. 6. [[paper]](/files/Pharm_Stat_Paper.pdf)
+toxicity model for subgroup-specific dose finding.” Pharmaceutical Statistics, 21. 6. [[PDF]](/files/Pharm_Stat_Paper.pdf)
 
 Carpenter K, Scavotto M, **McGovern A**, Ma C, Kenney LB, Mack JW, Greenzang KA. (2021).
 “Early Parental Knowledge of Late Effect Risks in Children with Cancer.” Pediatric
-Blood Cancer, e29335. [[paper]](https://doi.org/10.1002/pbc.29473)
+Blood Cancer, e29335. [[doi]](https://doi.org/10.1002/pbc.29473)
 
 Umaretiya PJ, Li A, **McGovern A**, Ma C, Wolfe J, Bona K. (2021). “Race, ethnicity, and
-goal-concordance of end-of-life palliative care in pediatric oncology.” Cancer, 127.20. [[paper]](https://doi.org/10.1002/cncr.33768)
+goal-concordance of end-of-life palliative care in pediatric oncology.” Cancer, 127. 20. [[doi]](https://doi.org/10.1002/cncr.33768)
 
 Lim-Fat MJ, et al. (2020). “A multi institutional comparative analysis of the clinical, genomic,
 and survival characteristics of pediatric, young adult and older adult patients with IDH
-mutant glioma.” Neuro-Oncology, 22.2. [[paper]](https://doi.org/10.1093/neuonc/noaa215.329)
+mutant glioma.” Neuro-Oncology, 22. 2. [[doi]](https://doi.org/10.1093/neuonc/noaa215.329)
 
-## Submitted
+## Under review
  **McGovern A**, Fuglstad GA, Wakefield J. (2026). "Sampling distributions for complex design variance estimators in a Fay-Herriot model."[[arXiv]](https://arxiv.org/abs/2604.23029) [[Code]](https://github.com/alanamcgovern/FHVarianceSmoothing)
 
 ## Non peer-reviewed work
